@@ -1,12 +1,6 @@
 fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
     ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-        fffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-            
-                                    fffffffffffffffffffffffffffffffffff
-                                        fffffffffffffffffffffffffffffffffffffffffff
-                                            fffffffffffffffffffffffffffffffffffffffffffffffffff
-                                                fffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-                                                    ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        ffffffffffffffffffffffffffffffffffffffffffffff
                                                         ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
                                                             ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 
